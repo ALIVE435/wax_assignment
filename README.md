@@ -1,1 +1,1 @@
-![post_request_testing](screenshot(1).png)
+![post_request_testing](Screenshot(1).png)
